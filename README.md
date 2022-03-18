@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 
-<h2>Skils</h2>
+<!--<h2>Skils</h2>
 
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=HTML5&logoColor=green"/>
@@ -9,7 +9,7 @@
 <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 
 <h2>Tools</h2>
-
+-->
 <!--
 **izuiw/izuiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
