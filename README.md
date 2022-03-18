@@ -1,10 +1,12 @@
 ### Hi there 👋 
 
 <h2>Skils</h2>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/> 
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> 
-
-
+<table>
+   <tr>
+<td><img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/></<td>
+<td><img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/></td> 
+  <tr>
+</table>
 <h2>Tools</h2>
 
 <!--
