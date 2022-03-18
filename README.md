@@ -1,7 +1,7 @@
 ### Hi there 👋 
 
 <h2>Skils</h2>
-<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/> 
 
 
 
