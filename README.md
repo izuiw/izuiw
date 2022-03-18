@@ -1,9 +1,11 @@
 ### Hi there 👋 
 
 <h2>Skils</h2>
-<img alt="Java" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <br>
+<img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/> 
 
-Tools
+
+
+<h2>Tools</h2>
 
 <!--
 **izuiw/izuiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
