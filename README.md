@@ -1,7 +1,8 @@
 ### Hi there 👋 
 
+
 <h2>Skils</h2>
-<table>
+<table width="100%">
    <tr>
 <td><img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/></<td>
    <td><img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=HTML5&logoColor=green"/></td> 
