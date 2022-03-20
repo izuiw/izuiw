@@ -1,15 +1,16 @@
-### Hi there 👋 
-
-
-<!--<h2>Skils</h2>
-
+### Hi there. I'm Minji Kim.👋 
+<ul>
+  <li>🌱 I’m currently learning : Java, Spring, MySQL </li> 
+  <li>📫 How to reach me: aswll.kr@gmail.com </li>
+</ul>
+ <br><br>
+<h2 align="center">Skil</h2>
+<p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=HTML5&logoColor=green"/>
-<img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+</p>
 
-<h2>Tools</h2>
--->
+
 <!--
 **izuiw/izuiw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
