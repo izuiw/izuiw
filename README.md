@@ -3,7 +3,7 @@
   <li>🌱 I’m currently learning : Java, Spring, MySQL </li> 
   <li>📫 How to reach me: aswll.kr@gmail.com </li>
 </ul>
- <br><br>
+ <br>
 <h2 align="center">Skil</h2>
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/>
