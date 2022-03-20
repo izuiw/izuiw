@@ -1,13 +1,14 @@
 ### Hi there. I'm Minji Kim.👋 
 <ul>
-  <li>🌱 I’m currently learning : Java, Spring, MySQL </li> 
-  <li>📫 How to reach me: aswll.kr@gmail.com </li>
+  <li>🌱 I’m currently learning : Java, Spring, Oracle </li> 
+  <li>📫 How to reach me : aswll.kr@gmail.com </li>
 </ul>
  <br>
 <h2 align="center">Skil</h2>
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=red"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=HTML5&logoColor=green"/>
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 </p>
 
 
