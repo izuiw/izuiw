@@ -1,8 +1,11 @@
 ### Hi there. I'm Minji Kim.👋 
+
 <ul>
   <li>🌱 I’m currently learning : Java, Spring, Oracle </li> 
   <li>📫 How to reach me : aswll.kr@gmail.com </li>
+  <li>💬 Blog : https://velog.io/@izuiw -> cs공부과정과, 겪었던 문제들을 정리해 올리고 있습니다.</li>
 </ul>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuiw&hide=php,html)](https://github.com/izuiw/github-readme-stats)
  <br>
 <h2 align="center">Skill</h2>
 <p align="center">
