@@ -1,11 +1,14 @@
 ### Hi there. I'm Minji Kim.👋 
 
+I want to be a Back-end Developer.
 <ul>
   <li>🌱 I’m currently learning : Java, Spring, Oracle </li> 
   <li>📫 How to reach me : aswll.kr@gmail.com </li>
+  <li>🤔 I'm interested in Kotlin, JavaScript...</li>
   <li>💬 Blog : https://velog.io/@izuiw -> cs공부과정과, 겪었던 문제들을 정리해 올리고 있습니다.</li>
 </ul>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuiw&hide=php,html)](https://github.com/izuiw/github-readme-stats)
+
+
  <br>
 <h2 align="center">Skill</h2>
 <p align="center">
@@ -13,6 +16,13 @@
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 </p>
+<br>
+<div align="center">
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuiw&hide=php,html,Python,Css&layout=compact)
+
+</div>
+
 
 
 <!--
