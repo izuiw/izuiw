@@ -19,7 +19,7 @@ I want to be a Back-end Developer.
 <br>
 <div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuiw&hide=php,html,Python,Css&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=izuiw&hide=php,html,Python,Css&layout=compact&exclude_repo=team,Proj-QCali)
 
 </div>
 
