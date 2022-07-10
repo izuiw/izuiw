@@ -5,15 +5,18 @@ I like learning new things, and I always try to improve myself.
 <ul>
   <!--<li>🌱 I’m currently learning : Java, Spring, Oracle </li> -->
   <li>📫 How to reach me : aswll.kr@gmail.com </li>
-  <li>🤔 I'm interested in Kotlin...</li>
-  <li>💬 Blog : https://velog.io/@izuiw </li>
+  <li>🤔 I'm interested in Kotlin and JavaScript...</li>
+<!--   <li>💬 Blog : https://velog.io/@izuiw </li> -->
 </ul>
 <br>
 <h2 align="center">Skill</h2>
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
-<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
-<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
+<img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
+<img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
+<img alt="MariaDB" src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
+<img alt="Git" src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
 </p>
 
 
