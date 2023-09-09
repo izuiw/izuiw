@@ -1,17 +1,19 @@
 ### Hi there. I'm Minji Kim.👋 
-
-I want to be a Back-end Developer. <br>
 I like learning new things, and I always try to improve myself.
+<br>
+1 년차 S/W 개발자 김민지입니다.
+ 
 <ul>
   <!--<li>🌱 I’m currently learning : Java, Spring, Oracle </li> -->
-  <li>📫 How to reach me : aswll.kr@gmail.com </li>
-  <li>🤔 I'm interested in Kotlin and JavaScript...</li>
+  <li>Email : aswll.kr@gmail.com </li>
 <!--   <li>💬 Blog : https://velog.io/@izuiw </li> -->
 </ul>
 <br>
 <h2 align="center">Skill</h2>
 <p align="center">
 <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <img alt="Oracle" src ="https://img.shields.io/badge/Oracle-F80000.svg?&style=for-the-badge&logo=Oracle&logoColor=white"/>
 <img alt="MariaDB" src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
